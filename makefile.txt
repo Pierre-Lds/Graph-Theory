@@ -1,0 +1,24 @@
+# Project
+
+This project was a school's group project. In this one I did constructive resolution.
+Please read the report to get more context about it.
+
+## Installation
+
+Use a Python IDE as [Pycharm Edu](https://www.jetbrains.com/fr-fr/pycharm/) and [Python 3.9](https://www.python.org/downloads/) or a newer version
+
+## Issues
+
+I know some of my group's members had issues on local search and tabu search. It may have some errors into them, then be careful if you want to use these algorithms.
+
+## Execution (for constructive)
+
+Launch matrix.py or list.py !
+
+For list.py :
+lines 70 and 73 : You can change the name of the input files
+line 81 : You can change the path of the directory of input files
+
+For list.py :
+lines 64 and 67 : You can change the name of the input files
+line 74 : You can change the path of the directory of input files
